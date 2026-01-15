@@ -288,7 +288,7 @@ const App: React.FC = () => {
                 <div className="w-64 h-64 bg-gray-200 rounded-xl overflow-hidden relative">
                    {/* Placeholder for QR Code */}
                    <img 
-                     src="https://picsum.photos/300/300?grayscale" 
+                     src="/1.png" 
                      alt="Join QR Code" 
                      className="w-full h-full object-cover opacity-80"
                    />
