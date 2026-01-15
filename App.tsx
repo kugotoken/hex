@@ -95,7 +95,7 @@ const App: React.FC = () => {
         <h1 className="text-4xl md:text-6xl font-extrabold mb-6 leading-tight">
           <span className="text-white">基于 four.meme 的</span>
           <br />
-          <span className="text-transparent bg-clip-text bg-gradient-to-r from-hex-gold via-hex-light to-hex-gold">全新 Meme 生态</span>
+          <span className="text-transparent bg-clip-text bg-gradient-to-r from-hex-gold via-hex-light to-hex-gold">全新 ＄HEX 生态</span>
         </h1>
         
         <p className="text-lg md:text-xl text-gray-400 max-w-2xl mb-10 leading-relaxed">
