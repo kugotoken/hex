@@ -298,7 +298,7 @@ const App: React.FC = () => {
                       </div>
                    </div>
                 </div>
-                <div className="text-center mt-4 font-bold text-hex-darker">扫描支付参与</div>
+                <div className="text-center mt-4 font-bold text-hex-darker">打开币安扫描支付参与</div>
               </div>
             </div>
           </div>
